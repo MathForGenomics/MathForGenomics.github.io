@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Exposés
-permalink: /exposés/
+title: Exposes
+permalink: /exposes/
 ---
 
 Exposés
