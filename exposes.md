@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exposes
+title: Exposés
 permalink: /exposes/
 ---
 
