@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Exposés
 permalink: /exposes/
 ---
@@ -11,4 +11,4 @@ Décembre 2017
 
 Janvier 2018
 
-Fécrier 2018
+Février 2018
