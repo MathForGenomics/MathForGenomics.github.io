@@ -4,8 +4,10 @@ title: Exposés
 permalink: /exposes/
 ---
 
-Exposés
+Ce cycle d’exposé est structuré par thématique, chacune en lien avec un type de données génomiques.
 
-### Contact me
+Décembre 2017
 
-[email@domain.com](mailto:email@domain.com)
+Janvier 2018
+
+Fécrier 2018
