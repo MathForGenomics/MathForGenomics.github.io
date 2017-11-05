@@ -18,4 +18,7 @@ permalink: /projet/
 
 **Organisateurs :** Christophe Amboise, Guillem Rigaill, Vincent Runge.
 
-**Nos structures de soutien** LaMME -- Université d'Evry -- Génopole
+Ce projet est soutenu par :
+![_config.yml]({{ site.baseurl }}/images/logo_lamme.png)
+![_config.yml]({{ site.baseurl }}/images/logo_ueve.png)
+![_config.yml]({{ site.baseurl }}/images/genopole.png)
