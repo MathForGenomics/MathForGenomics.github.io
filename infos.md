@@ -11,7 +11,7 @@ Plus d'infos [ici](https://www.transilien.com/lignes/rer-trains/rer-D).
 
 3) sortir à la station **Evry Courcouronnes**. Choisir sur le quai la sortie à l'avant du train. 
 
-4) suivre ce plan qui i) longue sur 100 m par la gauche un parking couvert ii) traverse un parc sur 300 m (attention au passage rouge : on rejoint la route en passant dans l'herbe juste avant le pont pieton).
+4) suivre ce plan qui i) longe sur **100 m** par la gauche un parking couvert ii) traverse un parc sur **300 m** (attention au passage rouge : on rejoint la route en passant dans l'herbe juste avant le pont pieton).
 
 ![_config.yml]({{ site.baseurl }}/images/carte.png)
 
