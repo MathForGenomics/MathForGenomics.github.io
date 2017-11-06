@@ -20,7 +20,7 @@ permalink: /projet/
 
 **Organisateurs :** Christophe Amboise, Guillem Rigaill, Vincent Runge.
 
-Pour toute question, contactez-nous [par email](vincent.Runge@univ-evry.fr)
+Pour toute question, contactez-nous [par email](vincent.runge@univ-evry.fr)
 
 Ce projet est soutenu par :
 
