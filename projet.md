@@ -7,6 +7,7 @@ permalink: /projet/
 **Le projet :** Un séminaire mensuel maths+génomique
 
 **L'idée.** Présenter un 'outil théorique algo/math' novateur et son utilisé dans le traitement de 'données génomiques'.
+<span style="color:blue">some *This is Blue italic.* text</span>
 
 **L'objectif.** Echanger et partager entre spécialistes d’horizons différents autour des 'défis théoriques' à relever en algorithmie et mathématique pour la génomique.
 
