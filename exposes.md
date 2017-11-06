@@ -14,6 +14,6 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 - ?
 - ?
 
-**Février 2018**
+**Mercredi 7 février 2018. 10h30**
 - ?
 - ?
