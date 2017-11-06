@@ -12,3 +12,11 @@ permalink: /infos/
 
 4) suivre ce plan qui i) longue sur 100 m un parking ii) traverse un parc sur 300 m
 
+![_config.yml]({{ site.baseurl }}/images/carte.png)
+
+5) vous êtes arrivés à **l'IBGBI** (vous pouvez pas le rater!)
+
+![_config.yml]({{ site.baseurl }}/images/ibgbi.png)
+
+6) On vous attend au **4ème étage** (prendre l'acenseur). Tout le batiment est en accès libre. 
+
