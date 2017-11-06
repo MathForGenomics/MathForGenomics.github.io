@@ -16,7 +16,7 @@ permalink: /projet/
 
 **Le lieu.**  4ème étage de l’IBGBI. Evry. Salle de réunion équipe statistique et Génome. (bâtiment en accès libre). Voir [Info Pratiques](infos.md).
 
-**Public visé.** <span style="color:purple">Le séminaire est ouvert à tous</span>. En particulier, nous souhaitons rassembler les chercheurs du Génopôle confrontés à la problématique du traitement des données génomiques: bio-informaticiens, statisticiens, biologistes, mathématiciens et informaticiens. Ce séminaire est également ouvert aux étudiants de master 2.
+**Public visé.** <span style="color:purple">Le séminaire est ouvert à toute personne intéressée</span>. En particulier, nous souhaitons rassembler les chercheurs du Génopôle confrontés à la problématique du traitement des données génomiques: bio-informaticiens, statisticiens, biologistes, mathématiciens et informaticiens. Ce séminaire est également ouvert aux étudiants de master 2.
 
 **Organisateurs :** Christophe Amboise, Guillem Rigaill, Vincent Runge.
 
