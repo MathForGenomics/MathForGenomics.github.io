@@ -4,7 +4,7 @@ title: Projet
 permalink: /projet/
 ---
 
-**Le projet :** Un séminaire mensuel maths+génomique
+**Le projet :** Un séminaire mensuel maths+génomique au coeur du [Génopôle](https://www.genopole.fr/), 1er biocluster de France.
 
 **L'idée.** Présenter un <span style="color:purple">outil théorique algo/math</span> novateur et son utilisé dans le traitement de données génomiques.
 
