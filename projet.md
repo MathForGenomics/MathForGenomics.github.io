@@ -12,11 +12,11 @@ permalink: /projet/
 
 **Le format.** <span style="color:blue">Deux exposés sur 1h30-2h</span> partagés chacun en 3 temps : un outil innovant / son intérêt concret / un dialogue avec la salle. Les deux exposés relèveront <span style="color:blue">d'une même thématique</span>, en lien avec un même type de données génomiques.
 
-**Créneau.** <span style="color:blue">Un mercredi par mois entre 10h30 et 12h-12h30<\span> de décembre à mai. (5 à 6 séances au total)
+**Créneau.** <span style="color:blue">Un mercredi par mois entre 10h30 et 12h-12h30</span> de décembre à mai. (5 à 6 séances au total)
 
 **Lieu.**  4ème étage de l’'IBGBI'. Evry. Salle de réunion équipe statistique et Génome. (bâtiment en accès libre). voir [Info Pratiques](infos.md)
 
-**Public visé.** <span style="color:blue">Le séminaire est ouvert à tous<\span>. En particulier, nous souhaitons rassembler les chercheurs du Génopôle confrontés à la problématique du traitement des données génomiques: bio-informaticiens, statisticiens, biologistes, mathématiciens et informaticiens. Ce séminaire est également ouvert aux étudiants de master 2.
+**Public visé.** <span style="color:blue">Le séminaire est ouvert à tous</span>. En particulier, nous souhaitons rassembler les chercheurs du Génopôle confrontés à la problématique du traitement des données génomiques: bio-informaticiens, statisticiens, biologistes, mathématiciens et informaticiens. Ce séminaire est également ouvert aux étudiants de master 2.
 
 **Organisateurs :** Christophe Amboise, Guillem Rigaill, Vincent Runge.
 
@@ -25,3 +25,6 @@ Ce projet est soutenu par :
 ![_config.yml]({{ site.baseurl }}/images/logo_lamme.png)
 ![_config.yml]({{ site.baseurl }}/images/logo_ueve.png)
 ![_config.yml]({{ site.baseurl }}/images/logo_genopole.png)
+
+Plus d'informations sur l'activité du laboratoire LaMME [ici](http://www.math-evry.cnrs.fr/doku.php)
+
