@@ -4,10 +4,10 @@ title: Infos pratiques
 permalink: /infos/
 ---
 
-1) Prendre le **RER D** direction **Corbeil Essonnes** ou **Malesherbes**. Fréquence des trains : un train chaque 10-15 minutes.
+1) Prendre le **RER D** direction **Corbeil Essonnes** ou **Malesherbes**. Fréquence des trains: un train chaque 10-15 minutes.
 Plus d'infos [ici](https://www.transilien.com/lignes/rer-trains/rer-D).
 
-2) **35 min de trajet** depuis gare de Lyon.
+2) **35 min de trajet** depuis Gare de Lyon.
 
 3) sortir à la station **Evry Courcouronnes**. Choisir sur le quai la sortie à l'avant du train. 
 
