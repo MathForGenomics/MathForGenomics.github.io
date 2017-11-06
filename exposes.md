@@ -7,8 +7,14 @@ permalink: /exposes/
 Ce cycle d’exposé est structuré par thématique, chacune en lien avec un type de données génomiques.
 voir [le projet](projet.md)
 
-Décembre 2017
+Mercredi 20 décembre 2017 : Problème d'assemblage
+- Michel KOSKAS (AgroPArisTech)
+-
 
-Janvier 2018
+Mercredi 17 janvier 2018 : Hi-C data
+-
+-
 
 Février 2018
+-
+-
