@@ -20,6 +20,8 @@ permalink: /projet/
 
 **Organisateurs :** Christophe Amboise, Guillem Rigaill, Vincent Runge.
 
+Pour toute question, contactez-nous [par email](vincent.Runge@univ-evry.fr)
+
 Ce projet est soutenu par :
 
 ![_config.yml]({{ site.baseurl }}/images/logo_lamme.png)
