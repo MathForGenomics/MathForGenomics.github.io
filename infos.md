@@ -19,5 +19,5 @@ Plus d'infos [ici](https://www.transilien.com/lignes/rer-trains/rer-D).
 
 ![_config.yml]({{ site.baseurl }}/images/ibgbi.png)
 
-6) On vous attend au **4ème étage** (prendre l'ascenseur). Tout le batiment est en accès libre. 
+6) On vous attend au **4ème étage** (prendre l'ascenseur). Tout le bâtiment est en accès libre. 
 
