@@ -6,14 +6,14 @@ permalink: /exposes/
 
 Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien avec un type de données génomiques. Pour plus d'informations, consulter [le projet](projet.md).
 
-**Mercredi 13 décembre 2017. 10h30** : Problème d'assemblage
+**Mercredi 10 janvier 2018. 10h30** : Problème d'assemblage
+- Véronique BRUNAUD (IPS2)
 - Michel KOSKAS (AgroPArisTech)
+
+**Mercredi 7 février 2018. 10h30** : Hi-C data
+- ?
 - ?
 
-**Mercredi 10 janvier 2018. 10h30** : Hi-C data
-- ?
-- ?
-
-**Mercredi 7 février 2018. 10h30**
+**Mercredi 7 mars 2018. 10h30**
 - ?
 - ?
