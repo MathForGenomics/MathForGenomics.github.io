@@ -15,5 +15,5 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 - Laure SANSONNET (AgroParisTech)
 
 **? mars 2018. 10h30**
-- Mahendra MARIADASSOU
+- Mahendra MARIADASSOU (INRA)
 - 
