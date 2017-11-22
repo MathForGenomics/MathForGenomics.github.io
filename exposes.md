@@ -10,7 +10,7 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 - Véronique BRUNAUD (IPS2)
 - Michel KOSKAS (AgroParisTech)
 
-Des détails [ICI](ABSTRACT/1_10janvier.pdf)
+Des détails dans le [pdf](ABSTRACT/1_10janvier.pdf)
 
 **Mercredi 7 février 2018. 10h30** : Hi-C data
 - Nicolas SERVANT (Institut Curie)
