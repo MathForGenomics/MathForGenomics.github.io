@@ -10,12 +10,14 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 - Véronique BRUNAUD (IPS2)
 - Michel KOSKAS (AgroParisTech)
 
-Des détails dans le [pdf](ABSTRACT/1_10janvier.pdf)
+Les abstracts dans le [pdf](ABSTRACT/1_10janvier.pdf)
 
-**Mercredi 7 février 2018. 10h30** : Hi-C data
+**Mercredi 7 février 2018. 10h30** : Hi-C data.
 - Nicolas SERVANT (Institut Curie)
 - Laure SANSONNET (AgroParisTech)
 
-**? mars 2018. 10h30**
+**Mercredi 7 mars 2018. 10h30** :  Méthodes phylogénétiques comparatives.
+- Hélène CHIAPELLO (INRA)
 - Mahendra MARIADASSOU (INRA)
-- 
+
+Les abstracts dans le [pdf](ABSTRACT/3_7mars.pdf)
