@@ -13,8 +13,10 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 Les abstracts dans le [pdf](ABSTRACT/1_10janvier.pdf)
 
 **Mercredi 7 février 2018. 10h30** : Hi-C data.
-- Nicolas SERVANT (Institut Curie)
+- Nicolas SERVANT (Institut Curie, INSERM U900,  Mines Paris Tech)
 - Laure SANSONNET (AgroParisTech)
+
+Les abstracts dans le [pdf](ABSTRACT/2_7fevrier.pdf)
 
 **Mercredi 7 mars 2018. 10h30** :  Méthodes phylogénétiques comparatives.
 - Hélène CHIAPELLO (INRA)
