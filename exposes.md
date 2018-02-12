@@ -22,5 +22,5 @@ Les abstracts dans le [pdf](ABSTRACT/3_7mars.pdf)
 - Nicolas SERVANT (Institut Curie, INSERM U900,  Mines Paris Tech)
 - Sarah OUADAH (AgroParisTech)
 
-Les abstracts dans le [pdf](ABSTRACT/2_7fevrier.pdf)
+Les abstracts dans le [pdf](ABSTRACT/2_4avril.pdf)
 
