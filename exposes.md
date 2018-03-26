@@ -18,7 +18,7 @@ Les abstracts dans le [pdf](ABSTRACT/1_10janvier.pdf)
 
 Les abstracts dans le [pdf](ABSTRACT/3_7mars.pdf)
 
-**Mercredi 4 avril 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Données Hi-C.</span> (Séance de rattrapage du 7 février)
+**Mercredi 11 avril 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Données Hi-C.</span> (Séance de rattrapage du 7 février)
 - Nicolas SERVANT (Institut Curie, INSERM U900,  Mines Paris Tech)
 - Sarah OUADAH (AgroParisTech)
 
