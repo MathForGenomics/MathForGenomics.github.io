@@ -24,3 +24,6 @@ Les abstracts dans le [pdf](ABSTRACT/3_7mars.pdf)
 
 Les abstracts dans le [pdf](ABSTRACT/2_11avril.pdf)
 
+**Mercredi 23 mai 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Approches post-hoc pour tests multiples</span>
+- 
+- 
