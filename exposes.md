@@ -10,7 +10,7 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 - Bengamin SADACCA (Institut Curie)
 - Pierre NEUVIAL (IMT, CNRS)
 
-Les abstracts dans le [pdf](ABSTRACT/4_mai.pdf)
+Les abstracts dans le [pdf](ABSTRACT/4_23mai.pdf)
 
 **Mercredi 11 avril 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Données Hi-C.</span> (Séance de rattrapage du 7 février)
 - Nicolas SERVANT (Institut Curie, INSERM U900,  Mines Paris Tech) ([presentation](servant.pdf))
