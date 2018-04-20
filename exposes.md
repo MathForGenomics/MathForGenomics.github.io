@@ -7,7 +7,7 @@ permalink: /exposes/
 Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien avec un type de données génomiques. Pour plus d'informations, consulter [le projet](projet.md).
 
 **Mercredi 23 mai 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Post hoc inference via multiple testing</span>
-- Bengamin SADACCA (Institut Curie)
+- Benjamin SADACCA (Institut Curie)
 - Pierre NEUVIAL (IMT, CNRS)
 
 Les abstracts dans le [pdf](ABSTRACT/4_23mai.pdf)
