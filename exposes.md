@@ -27,7 +27,7 @@ Les abstracts dans le [pdf](ABSTRACT/2_11avril.pdf)
 Les abstracts dans le [pdf](ABSTRACT/3_7mars.pdf)
 
 **Mercredi 10 janvier 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Problème d'assemblage de génomes.</span>
-- Véronique BRUNAUD (IPS2)
+- Véronique BRUNAUD (IPS2) ([presentation](brunaud.pdf))
 - Michel KOSKAS (AgroParisTech)
 
 Les abstracts dans le [pdf](ABSTRACT/1_10janvier.pdf)
