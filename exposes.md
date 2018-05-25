@@ -8,7 +8,7 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 
 **Mercredi 23 mai 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Post hoc inference via multiple testing</span>
 - Benjamin SADACCA (Institut Curie)
-- Pierre NEUVIAL (IMT, CNRS)
+- Pierre NEUVIAL (IMT, CNRS) ([presentation](neuvial.pdf))
 
 Les abstracts dans le [pdf](ABSTRACT/4_23mai.pdf)
 
