@@ -6,13 +6,19 @@ permalink: /exposes/
 
 Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien avec un type de données génomiques. Pour plus d'informations, consulter [le projet](projet.md).
 
+**Jeudi 7 février 2019. 10h30** : <span style="color:rgb(75, 182, 180)">A venir</span>
+- ?
+- ?
+
+***
+
+SAISON 2018
+
 **Mercredi 23 mai 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Post hoc inference via multiple testing</span>
 - Benjamin SADACCA (Institut Curie) ([presentation](sadacca.pdf))
 - Pierre NEUVIAL (IMT, CNRS) ([presentation](neuvial.pdf))
 
 Les abstracts dans le [pdf](ABSTRACT/4_23mai.pdf)
-
-***
 
 **Mercredi 11 avril 2018. 10h30** : <span style="color:rgb(75, 182, 180)">Données Hi-C.</span> (Séance de rattrapage du 7 février)
 - Nicolas SERVANT (Institut Curie) ([presentation](servant.pdf))
