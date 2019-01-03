@@ -9,8 +9,8 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 SAISON 2019
 
 **Jeudi 7 février 2019. 10h30** : <span style="color:rgb(75, 182, 180)"> Titre à venir</span>
-- A
-- B
+- 1
+- 2
 
 ***
 
