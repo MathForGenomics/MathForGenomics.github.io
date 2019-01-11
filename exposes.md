@@ -8,9 +8,9 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 
 ***SAISON 2019***
 
-**Jeudi 7 février 2019. 10h30** : <span style="color:rgb(75, 182, 180)"> Titre à venir</span>
-- 1
-- 2
+**Mercredi 7 février 2019. 14h** : <span style="color:rgb(75, 182, 180)"> Titre à venir</span>
+- Emmanuelle Six (Institut Imagine)
+- Agathe Guilloux (LaMME Evry)
 
 ***
 
