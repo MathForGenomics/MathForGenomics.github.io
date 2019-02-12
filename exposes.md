@@ -10,7 +10,7 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 
 **Mercredi 6 février 2019. 14h** : <span style="color:rgb(75, 182, 180)">Stem cells</span>
 - Emmanuelle Six (Institut Imagine)
-- Agathe Guilloux (LaMME Evry)
+- Agathe Guilloux (LaMME Evry) ([presentation](guilloux.pdf))
 
 Les abstracts dans le [pdf](ABSTRACT/5_6fevrier2019.pdf)
 
