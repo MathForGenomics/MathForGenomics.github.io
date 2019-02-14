@@ -12,6 +12,7 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 - Morgane Pierre-Jean (CEA. Evry)
 - Alain Celisse (Université de Lille. Laboratoire Painlevé)
 
+Les abstracts dans le [pdf](ABSTRACT/6_3avril2019.pdf)
 
 **Mercredi 6 février 2019. 14h** : <span style="color:rgb(75, 182, 180)">Stem cells</span>
 - Emmanuelle Six (Institut Imagine) ([presentation partielle](six.pdf)) (travaux en cours de publication)
