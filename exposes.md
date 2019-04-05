@@ -9,8 +9,8 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 ***SAISON 2019***
 
 **Mercredi 3 avril 2019. 10h30** : <span style="color:rgb(75, 182, 180)">Changepoint detection with kernels</span>
-- Morgane Pierre-Jean (CEA. Evry)
-- Alain Célisse (Université de Lille. Laboratoire Painlevé)
+- Morgane Pierre-Jean (CEA. Evry) ([presentation](pierrejean.pdf))
+- Alain Célisse (Université de Lille. Laboratoire Painlevé) ([presentation](celisse.pdf))
 
 Les abstracts dans le [pdf](ABSTRACT/6_3avril2019.pdf)
 
