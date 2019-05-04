@@ -9,7 +9,7 @@ Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien av
 ***SAISON 2019***
 
 
-**Mercredi 29 mai 2019. 10h30** : <span style="color:rgb(75, 182, 180)"></span>
+**Mercredi 29 mai 2019. 10h30** : <span style="color:rgb(75, 182, 180)">Biclustering pour l'étude des interactions plante-microbiote</span>
 - Julie Aubert (INRA/AgroParisTech)
 - Christophe Mougel (INRA/Rennes)
 
