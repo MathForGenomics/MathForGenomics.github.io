@@ -4,10 +4,11 @@ title: Exposés
 permalink: /exposes/
 ---
 
-Ce cycle d’exposés mensuel est structuré par thématique, chacune en lien avec un type de données génomiques. Pour plus d'informations, consulter [le projet](projet.md).
+Chaque mois du second semestre, nous organisons au LaMME un double exposé sur une thématique en génomique. Pour plus d'informations, consulter [le projet](projet.md).
+
+***
 
 ***SAISON 2019***
-
 
 **Mercredi 29 mai 2019. 10h30** : <span style="color:rgb(75, 182, 180)">Using DNA metabarcoding to study plant-microbiote interactions</span>
 - Christophe Mougel (INRA/Rennes) ([presentation](mougel.pdf))
