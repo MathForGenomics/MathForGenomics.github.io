@@ -10,9 +10,9 @@ permalink: /projet/
 
 **L'objectif.** Echanger et partager entre <span style="color:rgb(75, 182, 180)">spécialistes d’horizons différents</span> autour des défis théoriques à relever en algorithmie et mathématique pour la génomique.
 
-**Le format.** <span style="color:rgb(75, 182, 180)">Deux exposés sur 1h30-2h</span> partagés chacun en 3 temps : un outil innovant / son intérêt concret / un dialogue avec la salle. Les deux exposés relèveront <span style="color:rgb(75, 182, 180)">d'une même thématique</span>, en lien avec un même type de données génomiques. <span style="color:rgb(140, 5, 70)">Le premier exposé présentera la problématique des données du point de vue utilisateur.</span> 
+**Le format.** <span style="color:rgb(75, 182, 180)">Deux exposés sur 2h</span> Les deux exposés relèveront <span style="color:rgb(75, 182, 180)">d'une même thématique</span>, en lien avec un même type de données génomiques. <span style="color:rgb(140, 5, 70)">Le premier exposé présentera la problématique des données du point de vue utilisateur.</span> 
  
-**Le créneau.** <span style="color:rgb(75, 182, 180)">Un mercredi par mois entre 10h30 et 12h-12h30</span> de janvier à mai. (5 à 6 séances au total). Voir [le programme](exposes.md).
+**Le créneau.** <span style="color:rgb(75, 182, 180)">Un mercredi par mois entre 10h30 et 12h-12h30</span> de janvier à mai. (4 à 5 séances au total). Voir [le programme](exposes.md).
 
 **Le lieu.**  4ème étage de l’IBGBI. Evry. Salle de réunion équipe statistique et Génome. (bâtiment en accès libre). Voir [Info Pratiques](infos.md).
 
