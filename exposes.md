@@ -6,6 +6,11 @@ permalink: /exposes/
 
 Chaque mois du second semestre, nous organisons au LaMME un double exposé sur une thématique en génomique. Pour plus d'informations, consulter [le projet](projet.md).
 
+
+***SAISON 2020***
+
+Coming soon !
+
 ***
 
 ***SAISON 2019***
