@@ -9,7 +9,7 @@ Chaque mois du second semestre, nous organisons au LaMME un double exposé sur u
 
 ***SAISON 2020***
 
-**Mercredi 1er avril 2020. 10h30** : <span style="color:rgb(75, 182, 180)">Metagenomics: from biological data to statistical associations</span>
+**Mercredi 3 juin 2020. 11h (séminaire online)** : <span style="color:rgb(75, 182, 180)">Metagenomics: from biological data to statistical associations</span>
 - Coline Billerey (Enterome)
 - Antoine Bichat (LaMME/Enterome)
 
