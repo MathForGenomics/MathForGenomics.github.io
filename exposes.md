@@ -13,7 +13,7 @@ Chaque mois du second semestre, nous organisons au LaMME un double exposé sur u
 - Coline Billerey (Enterome)
 - Antoine Bichat (LaMME/Enterome)
 
-Les abstracts dans le [pdf](ABSTRACT/8_1avril2020.pdf)
+Les abstracts dans le [pdf](ABSTRACT/8_3juin2020.pdf)
 
 ***
 
