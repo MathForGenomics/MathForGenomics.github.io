@@ -9,6 +9,12 @@ Chaque mois du second semestre, nous organisons au LaMME un double exposé sur u
 
 ***SAISON 2020***
 
+**Mercredi 17 juin 2020. 11h (séminaire online)** : <span style="color:rgb(75, 182, 180)">Co-adaptation in plant genomes</span>
+- Françoise Budar (Institut Jean-Pierre Bourgin)
+- Marie-Laure Martin-Magniette (IPS2)
+
+Les abstracts dans le [pdf](ABSTRACT/9_17juin2020.pdf)
+
 **Mercredi 3 juin 2020. 11h (séminaire online)** : <span style="color:rgb(75, 182, 180)">Metagenomics: from biological data to statistical associations</span>
 - Coline Billerey (Enterome)
 - Antoine Bichat (LaMME/Enterome)
