@@ -16,8 +16,8 @@ Chaque mois du second semestre, nous organisons au LaMME un double exposé sur u
 Les abstracts dans le [pdf](ABSTRACT/9_17juin2020.pdf)
 
 **Mercredi 3 juin 2020. 11h (séminaire online)** : <span style="color:rgb(75, 182, 180)">Metagenomics: from biological data to statistical associations</span>
-- Coline Billerey (Enterome)
-- Antoine Bichat (LaMME/Enterome)
+- Coline Billerey (Enterome)([presentation](https://abichat.github.io/talks/hierarchicalcorrection_lamme/#1))
+- Antoine Bichat (LaMME/Enterome)([presentation](billerey.pdf))
 
 Les abstracts dans le [pdf](ABSTRACT/8_3juin2020.pdf)
 
