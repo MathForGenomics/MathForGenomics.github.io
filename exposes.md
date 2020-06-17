@@ -13,7 +13,7 @@ Chaque mois du second semestre, nous organisons au LaMME un double exposé sur u
 - Françoise Budar (Institut Jean-Pierre Bourgin)
 - Marie-Laure Martin-Magniette (IPS2)
 
-Les abstracts dans le [pdf](ABSTRACT/9_17juin2020.pdf)
+Les abstracts dans le [pdf](ABSTRACT/9_17juin2020.pdf) et la présentation commune par [ici](budar_martinMagniette.pdf)
 
 **Mercredi 3 juin 2020. 11h (séminaire online)** : <span style="color:rgb(75, 182, 180)">Metagenomics: from biological data to statistical associations</span>
 - Coline Billerey (Enterome)([presentation](billerey.pdf))
