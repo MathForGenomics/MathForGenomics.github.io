@@ -4,8 +4,19 @@ title: Exposés
 permalink: /exposes/
 ---
 
-Chaque mois du second semestre, nous organisons au LaMME un double exposé sur une thématique en génomique. Pour plus d'informations, consulter [le projet](projet.md).
+Durant le second semestre, nous organisons au LaMME un double exposé sur une thématique en génomique. Pour plus d'informations, consulter [le projet](projet.md).
 
+
+***SAISON 2021***
+
+**Jeudi 27 mai 2021. 14h (grand amphi IBGBI (à confirmer))** : <span style="color:rgb(75, 182, 180)">Prise en charge des cancers du sein et de l’ovaire</span>
+- Antoine de Pauw (Conseiller en génétique, Institut Curie)
+- Grégory Nuel (LPSM, Sorbonne Université)
+
+Les abstracts dans le [pdf](ABSTRACT/17_mai2021.pdf)
+
+
+***
 
 ***SAISON 2020***
 
