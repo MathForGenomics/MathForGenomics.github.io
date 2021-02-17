@@ -4,7 +4,7 @@ title: Exposés
 permalink: /exposes/
 ---
 
-Durant le second semestre, nous organisons au LaMME un double exposé sur une thématique en génomique. Pour plus d'informations, consulter [le projet](projet.md).
+Durant le second semestre, nous organisons au LaMME un séminaire en deux exposés sur une même thématique en génomique. Pour plus d'informations, consulter [le projet](projet.md).
 
 
 ***SAISON 2021***
