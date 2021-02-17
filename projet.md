@@ -12,7 +12,7 @@ permalink: /projet/
 
 **Le format.** <span style="color:rgb(75, 182, 180)">Deux exposés sur 1h30-2h</span> Les deux exposés relèveront <span style="color:rgb(75, 182, 180)">d'une même thématique</span>, en lien avec un même type de données génomiques. <span style="color:rgb(140, 5, 70)">Le premier exposé sera orienté vers la problématique des données pour le biologiste/bio-informaticien.</span> 
  
-**Le créneau.** <span style="color:rgb(75, 182, 180)">Environ une fois par mois entre 10h30 et 12h-12h30</span> de janvier à mai. (4 à 5 séances au total). Voir [le programme](exposes.md).
+**Le créneau.** <span style="color:rgb(75, 182, 180)">Environ une fois par mois entre 14h et 16h</span> de janvier à mai. (4 à 5 séances au total). Voir [le programme](exposes.md).
 
 **Le lieu.**  4ème étage de l’IBGBI. Evry. Salle de réunion équipe statistique et Génome. (bâtiment en accès libre). Voir [Info Pratiques](infos.md).
 
