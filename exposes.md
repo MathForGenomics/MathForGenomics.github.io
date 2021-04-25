@@ -10,7 +10,7 @@ Durant le second semestre, nous organisons au LaMME un séminaire en deux expos�
 species assemblages</span>
 - Virginie Ravigné (chercheuse CIRAD, UMR PVBMT, Saint-Pierre, Réunion)
 - Julien Chiquet (Senior Researcher in Statistics, INRAE)
-- 
+
 Les abstracts dans le [pdf](ABSTRACT/6_mai2021.pdf)
 
 
