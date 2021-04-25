@@ -6,6 +6,13 @@ permalink: /exposes/
 
 Durant le second semestre, nous organisons au LaMME un séminaire en deux exposés sur une même thématique en génomique. Pour plus d'informations, consulter [le projet](projet.md).
 
+**Jeudi 6 mai 2021. 14h (grand amphi IBGBI (à confirmer))** : <span style="color:rgb(75, 182, 180)">Poisson lognormal models help digging into the mechanisms of
+species assemblages</span>
+- Virginie Ravigné (chercheuse CIRAD, UMR PVBMT, Saint-Pierre, Réunion)
+- Julien Chiquet (Senior Researcher in Statistics, INRAE)
+- 
+Les abstracts dans le [pdf](ABSTRACT/6_mai2021.pdf)
+
 
 ***SAISON 2021***
 
@@ -13,7 +20,7 @@ Durant le second semestre, nous organisons au LaMME un séminaire en deux expos�
 - Antoine de Pauw (Conseiller en génétique, Institut Curie)
 - Grégory Nuel (LPSM, Sorbonne Université)
 
-Les abstracts dans le [pdf](ABSTRACT/17_mai2021.pdf)
+Les abstracts dans le [pdf](ABSTRACT/27_mai2021.pdf)
 
 
 ***
