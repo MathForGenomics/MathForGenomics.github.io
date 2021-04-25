@@ -13,9 +13,6 @@ species assemblages</span>
 
 Les abstracts dans le [pdf](ABSTRACT/6_mai2021.pdf)
 
-
-***SAISON 2021***
-
 **Jeudi 27 mai 2021. 14h (grand amphi IBGBI (à confirmer))** : <span style="color:rgb(75, 182, 180)">Prise en charge des cancers du sein et de l’ovaire</span>
 - Antoine de Pauw (Conseiller en génétique, Institut Curie)
 - Grégory Nuel (LPSM, Sorbonne Université)
