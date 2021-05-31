@@ -7,8 +7,8 @@ permalink: /exposes/
 Durant le second semestre, nous organisons au LaMME un séminaire en deux exposés sur une même thématique en génomique. Pour plus d'informations, consulter [le projet](projet.md).
 
 **Jeudi 27 mai 2021. 14h (grand amphi IBGBI)** : <span style="color:rgb(75, 182, 180)">Prise en charge des cancers du sein et de l’ovaire</span>
-- Antoine de Pauw (Conseiller en génétique, Institut Curie)
-- Grégory Nuel (LPSM, Sorbonne Université)
+- Antoine de Pauw (Conseiller en génétique, Institut Curie) ([presentation](dePauw.pdf))
+- Grégory Nuel (LPSM, Sorbonne Université) ([presentation](talk_nuel2021genetics_evry.pdf))
 
 Les abstracts dans le [pdf](ABSTRACT/27_mai2021.pdf)
 
